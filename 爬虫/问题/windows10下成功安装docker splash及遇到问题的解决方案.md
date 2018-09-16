@@ -1,10 +1,10 @@
-﻿# windows10下成功安装docker splash及遇到问题的解决方案
+# windows10下成功安装docker splash及遇到问题的解决方案
 
 在windows10 下安装docker:
 
 ## 1.进入官方网站安装：[https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/)
 
-![1](https://img-blog.csdn.net/20180916120531815?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R0YTA1MDI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![1](https://raw.githubusercontent.com/dta0502/data-analysis/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/windows10%E4%B8%8B%E6%88%90%E5%8A%9F%E5%AE%89%E8%A3%85docker%20splash%E5%8F%8A%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-1.png)
 
 
 注：仔细阅读文档，会发现：运行 Docker for Windows 仅支持win10专业版 。所以可以查看自己的电脑是否是win10专业版的，（一般自己的笔记本都是家庭版的）
@@ -15,7 +15,7 @@
 
 安装路径下载：[https://docs.docker.com/toolbox/overview/#whats-in-the-box](https://docs.docker.com/toolbox/overview/#whats-in-the-box)
 
-![2](https://img-blog.csdn.net/20180916120539426?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R0YTA1MDI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![2](https://raw.githubusercontent.com/dta0502/data-analysis/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/windows10%E4%B8%8B%E6%88%90%E5%8A%9F%E5%AE%89%E8%A3%85docker%20splash%E5%8F%8A%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-2.png)
 
 ## 3.下载安装
 
@@ -34,7 +34,7 @@ Oracle VM Virtualbox. 虚拟机
 ```
 下载完成之后直接点击安装，安装成功后，桌边会出现三个图标，入下图所示：
 
-![3](https://img-blog.csdn.net/20180916120610910?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R0YTA1MDI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![3](https://raw.githubusercontent.com/dta0502/data-analysis/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/windows10%E4%B8%8B%E6%88%90%E5%8A%9F%E5%AE%89%E8%A3%85docker%20splash%E5%8F%8A%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-3.png)
 
 
 点击 Docker QuickStart 图标来启动 Docker Toolbox 终端。
@@ -54,7 +54,7 @@ Oracle VM Virtualbox. 虚拟机
 
 docker启动成功：
 
-![4](https://img-blog.csdn.net/20180916132806156?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R0YTA1MDI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![4](https://raw.githubusercontent.com/dta0502/data-analysis/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/windows10%E4%B8%8B%E6%88%90%E5%8A%9F%E5%AE%89%E8%A3%85docker%20splash%E5%8F%8A%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-4.png)
 
 
 注意：这里docker默认的ip是：`192.168.99.100`
@@ -75,7 +75,7 @@ $ sudo docker run -p 8050:8050 -p 5023:5023 scrapinghub/splash
 表示:Splash现在在端口`8050（http）`和`5023（telnet）`上的0.0.0.0处可用。
 
 ## 6.启动成功
-在浏览器上输入：`192.168.99.100：8050`
+在浏览器上输入：`192.168.99.100：8050`\
 显示splash web的页面：
 
-![5](https://img-blog.csdn.net/20180916132935403?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R0YTA1MDI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![5](https://raw.githubusercontent.com/dta0502/data-analysis/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/windows10%E4%B8%8B%E6%88%90%E5%8A%9F%E5%AE%89%E8%A3%85docker%20splash%E5%8F%8A%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88-5.png)
