@@ -3,6 +3,8 @@
 - 数据分析
 - 统计
 
+记录学习过程中碰到的问题以及一些实战项目！
+
 ## [爬虫](https://github.com/dta0502/data-analysis/tree/master/%E7%88%AC%E8%99%AB)
 ### [学习爬虫过程中遇到的问题](https://github.com/dta0502/data-analysis/tree/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98)
 - **Scrapy相关问题**\
@@ -16,6 +18,9 @@
 - **Xpath**\
 [XPath无法匹配tbody标签](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/XPath%E6%97%A0%E6%B3%95%E5%8C%B9%E9%85%8Dtbody%E6%A0%87%E7%AD%BE.md)
 
+- **splash**\
+[windows10下成功安装docker splash及遇到问题的解决方案](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/windows10%E4%B8%8B%E6%88%90%E5%8A%9F%E5%AE%89%E8%A3%85docker%20splash%E5%8F%8A%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)\
+[点击Docker出现windows 正在查找bash.exe](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/%E7%82%B9%E5%87%BBDocker%E5%87%BA%E7%8E%B0windows%20%E6%AD%A3%E5%9C%A8%E6%9F%A5%E6%89%BEbash.exe.md)
 
 ## [数据分析](https://github.com/dta0502/data-analysis/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
 ### [数据集](https://github.com/dta0502/data-analysis/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E6%95%B0%E6%8D%AE%E9%9B%86)
