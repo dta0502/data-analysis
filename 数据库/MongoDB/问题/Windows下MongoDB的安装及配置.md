@@ -1,4 +1,4 @@
-﻿# Windows下MongoDB的安装及配置
+# Windows下MongoDB的安装及配置
 
 转载于：[windows下MongoDB的安装及配置](https://blog.csdn.net/heshushun/article/details/77776706)
 
@@ -31,7 +31,7 @@ It looks like you are trying to access MongoDB over HTTP on the native driver po
 则表示，连接成功。如果不成功，可以查看端口是否被占用。但是在本地windows“服务”中，是没有配
 置上mongodb 服务的，可以打开“服务”看下
 
-![1](https://img-blog.csdn.net/20180913161533219?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R0YTA1MDI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![1](https://raw.githubusercontent.com/dta0502/data-analysis/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/%E9%97%AE%E9%A2%98/Windows%E4%B8%8BMongoDB%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE-1.png)
 
 ## 五、配置本地windows mongodb 服务
 
@@ -58,7 +58,7 @@ mongod --config "D:\software\Mongodb\mongo.config" --install --serviceName "Mong
 ```
 即根据刚创建的`mongo.config`配置文件安装服务，名称为`MongoDB`。
 完成后，再次查看本地的服务。
-![2](https://img-blog.csdn.net/20180913162052307?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R0YTA1MDI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![2](https://raw.githubusercontent.com/dta0502/data-analysis/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/%E9%97%AE%E9%A2%98/Windows%E4%B8%8BMongoDB%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE-2.png)
 
 如果成功的话，会发现本地服务多了”MongoDB"服务。
 
