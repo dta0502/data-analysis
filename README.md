@@ -1,6 +1,7 @@
 # 我的数据分析学习笔记
 - 爬虫
 - 数据分析
+- 数据库
 - 统计
 
 记录学习过程中碰到的问题以及一些实战项目！
@@ -27,6 +28,14 @@
 这里收集了一些有趣的数据集
 
 ### [利用Python进行数据分析-第二版-中文翻译](https://github.com/dta0502/data-analysis/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%E7%AC%AC%E4%BA%8C%E7%89%88%20%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91)
+
+
+## 数据库
+### MongoDB
+- [MongoDB数据库迁移](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%81%E7%A7%BB.md)
+
+#### 问题
+- [Windows下MongoDB的安装及配置](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/%E9%97%AE%E9%A2%98/Windows%E4%B8%8BMongoDB%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE.md)
 
 
 ## [统计](https://github.com/dta0502/data-analysis/tree/master/%E7%BB%9F%E8%AE%A1)
