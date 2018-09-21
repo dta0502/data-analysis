@@ -6,8 +6,8 @@
 
 记录学习过程中碰到的问题以及一些实战项目！
 
-## [爬虫](https://github.com/dta0502/data-analysis/tree/master/%E7%88%AC%E8%99%AB)
-### [学习爬虫过程中遇到的问题](https://github.com/dta0502/data-analysis/tree/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98)
+## 一、爬虫
+### [1.学习爬虫过程中遇到的问题](https://github.com/dta0502/data-analysis/tree/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98)
 - **Scrapy相关问题**\
 [Windows下---Python安装Scrapy报错：Microsoft Visual C++ 14.0 is required...](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/Python%E5%AE%89%E8%A3%85Scrapy%E6%8A%A5%E9%94%99%EF%BC%9AMicrosoft%20Visual%20C%2B%2B%2014.0%20is%20required....md)\
 [Ubuntu下---Python安装scrapy报错 Python.h 没有那个文件或目录](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/Python%E5%AE%89%E8%A3%85scrapy%E6%8A%A5%E9%94%99%20Python.h%20%E6%B2%A1%E6%9C%89%E9%82%A3%E4%B8%AA%E6%96%87%E4%BB%B6%E6%88%96%E7%9B%AE%E5%BD%95.md)\
@@ -23,7 +23,7 @@
 [windows10下成功安装docker splash及遇到问题的解决方案](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/windows10%E4%B8%8B%E6%88%90%E5%8A%9F%E5%AE%89%E8%A3%85docker%20splash%E5%8F%8A%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)\
 [点击Docker出现windows 正在查找bash.exe](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/%E7%82%B9%E5%87%BBDocker%E5%87%BA%E7%8E%B0windows%20%E6%AD%A3%E5%9C%A8%E6%9F%A5%E6%89%BEbash.exe.md)
 
-### Scrapy学习笔记
+### 2.Scrapy学习笔记
 - [重写scrapy中间件RetryMiddleware](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/Scrapy%E7%AC%94%E8%AE%B0/%E9%87%8D%E5%86%99scrapy%E4%B8%AD%E9%97%B4%E4%BB%B6%E4%B9%8BRetryMiddleware.md)
 
 
@@ -31,25 +31,25 @@
 
 
 
-## [数据分析](https://github.com/dta0502/data-analysis/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
-### [数据集](https://github.com/dta0502/data-analysis/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E6%95%B0%E6%8D%AE%E9%9B%86)
+## 二、数据分析
+### [1.数据集](https://github.com/dta0502/data-analysis/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E6%95%B0%E6%8D%AE%E9%9B%86)
 这里收集了一些有趣的数据集
 
-### [利用Python进行数据分析-第二版-中文翻译](https://github.com/dta0502/data-analysis/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%E7%AC%AC%E4%BA%8C%E7%89%88%20%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91)
+### [2.利用Python进行数据分析-第二版-中文翻译](https://github.com/dta0502/data-analysis/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%E7%AC%AC%E4%BA%8C%E7%89%88%20%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91)
 
 
 
 
 
-## 数据库
-### MongoDB
+## 三、数据库
+### 1.MongoDB
 - [MongoDB数据库迁移](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%81%E7%A7%BB.md)\
 - [Windows 安装 MongoDB 卡住问题解决](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/%E9%97%AE%E9%A2%98/Windows%20%E5%AE%89%E8%A3%85%20MongoDB%20%E5%8D%A1%E4%BD%8F%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.md)
 
 #### 问题
 - [Windows下MongoDB的安装及配置](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/%E9%97%AE%E9%A2%98/Windows%E4%B8%8BMongoDB%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE.md)
 
-### redis
+### 2.redis
 - [Windows下如何正确下载并安装可视化的Redis数据库管理工具（redis-desktop-manager)（图文详解）](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/redis/Windows%E4%B8%8B%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%B8%8B%E8%BD%BD%E5%B9%B6%E5%AE%89%E8%A3%85%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9A%84Redis%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7.md)
 
 
@@ -57,7 +57,8 @@
 
 
 
-## [统计](https://github.com/dta0502/data-analysis/tree/master/%E7%BB%9F%E8%AE%A1)
+## 四、统计
 
+- [Python实现多元线性回归](https://github.com/dta0502/data-analysis/blob/master/%E7%BB%9F%E8%AE%A1/Python%E5%AE%9E%E7%8E%B0%E5%A4%9A%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/Python%E5%AE%9E%E7%8E%B0%E5%A4%9A%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
 
 
