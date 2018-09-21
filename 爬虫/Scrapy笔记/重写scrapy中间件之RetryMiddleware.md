@@ -1,20 +1,15 @@
 ﻿# 重写scrapy中间件RetryMiddleware
 
 
-在爬取得过程中难免会遇到各种错误，如timeout或者404。而且在用ip代理池时，不是所有的代理都是稳定的，所以对于失败的代理我们需要做一些处理，例如删除操作。而由于不稳定代理引起的请求我们需要重新发起。这时候就有必要重写RetryMiddleware，来实现一些自己想要的操作。
+在爬取得过程中难免会遇到各种错误，如timeout或者404。而且在用ip代理池时，不是所有的代理都是稳定的，所以对于失败的代理我们需要做一些处理，例如删除操作。而由于不稳定代理引起的请求我们需要重新发起。这时候就有必要重写`RetryMiddleware`，来实现一些自己想要的操作。
 
 
+- 理解`RetryMiddleware`源码
 
-- 理解RetryMiddleware源码
-
-- 重写RetryMiddleware
-
-## 
+- 重写`RetryMiddleware`
 
 
-
-
-RetryMiddleware部分源码
+## RetryMiddleware部分源码
 
 ```python
 class RetryMiddleware(object):
@@ -94,10 +89,10 @@ class MyRetryMiddleware(RetryMiddleware):
             return self._retry(request, exception, spider)
 ```
 
-其中_retry方法有如下作用： 
-- 
-1、对request.meta中的retry_time进行+1 
+其中`_retry方法`有如下作用： 
 
-- 2、将retry_times和max_retry_time进行比较，如果前者小于等于后者，利用copy方法在原来的request上复制一个新request，并更新其retry_times，并将dont_filter设为True来防止因url重复而被过滤。
+- 1、对`request.meta`中的`retry_time`进行+1 
+
+- 2、将`retry_times`和`max_retry_time`进行比较，如果前者小于等于后者，利用`copy`方法在原来的request上复制一个新request，并更新其`retry_times`，并将`dont_filter`设为`True`来防止因url重复而被过滤。
 
 
