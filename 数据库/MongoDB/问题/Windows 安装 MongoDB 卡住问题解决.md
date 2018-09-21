@@ -1,11 +1,11 @@
-﻿# Windows 安装 MongoDB 卡住问题解决
+# Windows 安装 MongoDB 卡住问题解决
 
 MongoDB 的安装过程比较简单，一路next就可以，
 
 需要注意的是最后一步，勾选掉 `mongo db compass`，不安装，不然会因为一直下载这个工具，导致安装卡主。如下图
 
 
-![1](https://img-blog.csdn.net/2018091918200759?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R0YTA1MDI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![1](https://raw.githubusercontent.com/dta0502/data-analysis/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/%E9%97%AE%E9%A2%98/Windows%20%E5%AE%89%E8%A3%85%20MongoDB%20%E5%8D%A1%E4%BD%8F%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3-1.png)
 
 
 
