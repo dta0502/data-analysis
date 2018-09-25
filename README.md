@@ -37,7 +37,7 @@
 
 ### [2.利用Python进行数据分析-第二版-中文翻译](https://github.com/dta0502/data-analysis/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%E7%AC%AC%E4%BA%8C%E7%89%88%20%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91)
 
-### Seaborn学习笔记
+### 3.Seaborn学习笔记
 - [Seaborn散点图，箱型图，柱状图，折线图及多面板绘图](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Seaborn/Seaborn%E6%95%A3%E7%82%B9%E5%9B%BE%EF%BC%8C%E7%AE%B1%E5%9E%8B%E5%9B%BE%EF%BC%8C%E6%9F%B1%E7%8A%B6%E5%9B%BE%EF%BC%8C%E6%8A%98%E7%BA%BF%E5%9B%BE%E5%8F%8A%E5%A4%9A%E9%9D%A2%E6%9D%BF%E7%BB%98%E5%9B%BE.ipynb)
 
 
