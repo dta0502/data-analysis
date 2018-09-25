@@ -39,13 +39,13 @@
 
 ### 3.Seaborn学习笔记
 - [Seaborn散点图，箱型图，柱状图，折线图及多面板绘图](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Seaborn/Seaborn%E6%95%A3%E7%82%B9%E5%9B%BE%EF%BC%8C%E7%AE%B1%E5%9E%8B%E5%9B%BE%EF%BC%8C%E6%9F%B1%E7%8A%B6%E5%9B%BE%EF%BC%8C%E6%8A%98%E7%BA%BF%E5%9B%BE%E5%8F%8A%E5%A4%9A%E9%9D%A2%E6%9D%BF%E7%BB%98%E5%9B%BE.ipynb)
-
+- [Seaborn可视化：图形个性化设置的几个小技巧](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Seaborn/Seaborn%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%9A%E5%9B%BE%E5%BD%A2%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E7%9A%84%E5%87%A0%E4%B8%AA%E5%B0%8F%E6%8A%80%E5%B7%A7.ipynb)
 
 
 
 ## 三、数据库
 ### 1.MongoDB
-- [MongoDB数据库迁移](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%81%E7%A7%BB.md)\
+- [MongoDB数据库迁移](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%81%E7%A7%BB.md)
 - [Windows 安装 MongoDB 卡住问题解决](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/%E9%97%AE%E9%A2%98/Windows%20%E5%AE%89%E8%A3%85%20MongoDB%20%E5%8D%A1%E4%BD%8F%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.md)
 
 #### 问题
