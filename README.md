@@ -14,7 +14,8 @@
 [Windows 上运行 Scrapy [win32api] 错误解决](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/Windows%20%E4%B8%8A%E8%BF%90%E8%A1%8C%20Scrapy%20%5Bwin32api%5D%20%E9%94%99%E8%AF%AF%E8%A7%A3%E5%86%B3.md)\
 [scrapy 爬网站 显示 Filtered offsite request to 错误](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/scrapy%20%E7%88%AC%E7%BD%91%E7%AB%99%20%E6%98%BE%E7%A4%BA%20Filtered%20offsite%20request%20to%20%E9%94%99%E8%AF%AF.md)\
 [Scrapy使用随机User-Agent爬取网站](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/Scrapy%E4%BD%BF%E7%94%A8%E9%9A%8F%E6%9C%BAUser-Agent%E7%88%AC%E5%8F%96%E7%BD%91%E7%AB%99.md)\
-[scrapy 输出csv文件数据之间有空行](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/scrapy%20%E8%BE%93%E5%87%BAcsv%E6%96%87%E4%BB%B6%E6%95%B0%E6%8D%AE%E4%B9%8B%E9%97%B4%E6%9C%89%E7%A9%BA%E8%A1%8C.md)
+[scrapy 输出csv文件数据之间有空行](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/scrapy%20%E8%BE%93%E5%87%BAcsv%E6%96%87%E4%BB%B6%E6%95%B0%E6%8D%AE%E4%B9%8B%E9%97%B4%E6%9C%89%E7%A9%BA%E8%A1%8C.md)\
+[scrapy在不同的Request之间传递参数的办法](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/scrapy%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84Request%E4%B9%8B%E9%97%B4%E4%BC%A0%E9%80%92%E5%8F%82%E6%95%B0%E7%9A%84%E5%8A%9E%E6%B3%95.md)
 
 - **Xpath**\
 [XPath无法匹配tbody标签](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/XPath%E6%97%A0%E6%B3%95%E5%8C%B9%E9%85%8Dtbody%E6%A0%87%E7%AD%BE.md)
