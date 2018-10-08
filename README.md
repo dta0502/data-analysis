@@ -42,6 +42,7 @@
 - [Pandas一列分成两列](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%E4%B8%80%E5%88%97%E5%88%86%E6%88%90%E4%B8%A4%E5%88%97.md)
 - [Pandas的SettingWithCopyWarning警告出现的原因和如何避免](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%E7%9A%84SettingWithCopyWarning%E8%AD%A6%E5%91%8A%E5%87%BA%E7%8E%B0%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%92%8C%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D.md)
 - [Python中DataFrame常见操作：取行、列、切片、统计特征值](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Python%E4%B8%ADDataFrame%E5%B8%B8%E8%A7%81%E6%93%8D%E4%BD%9C%EF%BC%9A%E5%8F%96%E8%A1%8C%E3%80%81%E5%88%97%E3%80%81%E5%88%87%E7%89%87%E3%80%81%E7%BB%9F%E8%AE%A1%E7%89%B9%E5%BE%81%E5%80%BC.md)
+- [Pandas DataFrame、Series的排序](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%20DataFrame%E3%80%81Series%E7%9A%84%E6%8E%92%E5%BA%8F.md)
 
 ### 4.Seaborn学习笔记
 - [Seaborn散点图，箱型图，柱状图，折线图及多面板绘图](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Seaborn/Seaborn%E6%95%A3%E7%82%B9%E5%9B%BE%EF%BC%8C%E7%AE%B1%E5%9E%8B%E5%9B%BE%EF%BC%8C%E6%9F%B1%E7%8A%B6%E5%9B%BE%EF%BC%8C%E6%8A%98%E7%BA%BF%E5%9B%BE%E5%8F%8A%E5%A4%9A%E9%9D%A2%E6%9D%BF%E7%BB%98%E5%9B%BE.ipynb)
