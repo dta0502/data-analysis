@@ -51,6 +51,7 @@
 - [Seaborn可视化：图形个性化设置的几个小技巧](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Seaborn/Seaborn%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%9A%E5%9B%BE%E5%BD%A2%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E7%9A%84%E5%87%A0%E4%B8%AA%E5%B0%8F%E6%8A%80%E5%B7%A7.ipynb)
 
 ### 5.pyecharts笔记
+- [Python第三方库pyecharts安装过程](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/pyecharts%E7%AC%94%E8%AE%B0/Python%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93pyecharts%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B.md)
 - [pyecharts地理坐标系 出现显示不全或只显示南海诸岛问题](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/pyecharts%E7%AC%94%E8%AE%B0/pyecharts%E5%9C%B0%E7%90%86%E5%9D%90%E6%A0%87%E7%B3%BB%20%E5%87%BA%E7%8E%B0%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%85%A8%E6%88%96%E5%8F%AA%E6%98%BE%E7%A4%BA%E5%8D%97%E6%B5%B7%E8%AF%B8%E5%B2%9B%E9%97%AE%E9%A2%98.md)
 
 ### 6.实战
