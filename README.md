@@ -1,4 +1,5 @@
 # 我的数据分析学习笔记
+- Python基础
 - 爬虫
 - 数据分析
 - 数据库
@@ -6,7 +7,14 @@
 
 记录学习过程中碰到的问题以及一些实战项目！
 
-## 一、爬虫
+## 一、Python基础
+- [Python操作dict时避免出现KeyError的几种方法](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python_%E6%93%8D%E4%BD%9Cdict%E6%97%B6%E9%81%BF%E5%85%8D%E5%87%BA%E7%8E%B0KeyError%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E6%B3%95.md)
+- [Python中None与Null的区别](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python%E4%B8%ADNone%E4%B8%8ENull%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+- [Python基础——try与except处理异常语句](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python%E5%9F%BA%E7%A1%80%E2%80%94%E2%80%94try%E4%B8%8Eexcept%E5%A4%84%E7%90%86%E5%BC%82%E5%B8%B8%E8%AF%AD%E5%8F%A5.md)
+- [Python更改pip源至国内镜像，显著提升下载速度](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python%E6%9B%B4%E6%94%B9pip%E6%BA%90%E8%87%B3%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%EF%BC%8C%E6%98%BE%E8%91%97%E6%8F%90%E5%8D%87%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6.md)
+
+
+## 二、爬虫
 ### [1.学习爬虫过程中遇到的问题](https://github.com/dta0502/data-analysis/tree/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98)
 - **Scrapy相关问题**\
 [Windows下---Python安装Scrapy报错：Microsoft Visual C++ 14.0 is required...](https://github.com/dta0502/data-analysis/blob/master/%E7%88%AC%E8%99%AB/%E9%97%AE%E9%A2%98/Python%E5%AE%89%E8%A3%85Scrapy%E6%8A%A5%E9%94%99%EF%BC%9AMicrosoft%20Visual%20C%2B%2B%2014.0%20is%20required....md)\
@@ -32,7 +40,7 @@
 
 
 
-## 二、数据分析
+## 三、数据分析
 ### [1.数据集](https://github.com/dta0502/data-analysis/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/%E6%95%B0%E6%8D%AE%E9%9B%86)
 这里收集了一些有趣的数据集
 
@@ -52,6 +60,7 @@
 
 ### 5.pyecharts笔记
 - [Python第三方库pyecharts安装过程](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/pyecharts%E7%AC%94%E8%AE%B0/Python%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93pyecharts%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B.md)
+- [pyecharts pip安装后出现“No module named 'jupyter echarts pypkg'”错误](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/pyecharts%E7%AC%94%E8%AE%B0/pyecharts%20pip%E5%AE%89%E8%A3%85%E5%90%8E%E5%87%BA%E7%8E%B0%E2%80%9CNo%20module%20named%20'jupyter%20echarts%20pypkg'%E2%80%9D%E9%94%99%E8%AF%AF.md)
 - [pyecharts地理坐标系 出现显示不全或只显示南海诸岛问题](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/pyecharts%E7%AC%94%E8%AE%B0/pyecharts%E5%9C%B0%E7%90%86%E5%9D%90%E6%A0%87%E7%B3%BB%20%E5%87%BA%E7%8E%B0%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%85%A8%E6%88%96%E5%8F%AA%E6%98%BE%E7%A4%BA%E5%8D%97%E6%B5%B7%E8%AF%B8%E5%B2%9B%E9%97%AE%E9%A2%98.md)
 
 ### 6.实战
@@ -63,7 +72,7 @@
 
 
 
-## 三、数据库
+## 四、数据库
 ### 1.MongoDB
 - [MongoDB数据库迁移](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%81%E7%A7%BB.md)
 - [Windows 安装 MongoDB 卡住问题解决](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/%E9%97%AE%E9%A2%98/Windows%20%E5%AE%89%E8%A3%85%20MongoDB%20%E5%8D%A1%E4%BD%8F%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.md)
@@ -79,7 +88,7 @@
 
 
 
-## 四、统计
+## 五、统计
 
 - [Python实现多元线性回归](https://github.com/dta0502/data-analysis/blob/master/%E7%BB%9F%E8%AE%A1/Python%E5%AE%9E%E7%8E%B0%E5%A4%9A%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/Python%E5%AE%9E%E7%8E%B0%E5%A4%9A%E5%85%83%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92.ipynb)
 
