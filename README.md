@@ -55,6 +55,7 @@
 - [Pandas设置数字格式，小数位数、百分号、千位分隔符](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%E8%AE%BE%E7%BD%AE%E6%95%B0%E5%AD%97%E6%A0%BC%E5%BC%8F%EF%BC%8C%E5%B0%8F%E6%95%B0%E4%BD%8D%E6%95%B0%E3%80%81%E7%99%BE%E5%88%86%E5%8F%B7%E3%80%81%E5%8D%83%E4%BD%8D%E5%88%86%E9%9A%94%E7%AC%A6.md)
 - [Pandas 合并多个Dataframe（merge,concat）](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%20%E5%90%88%E5%B9%B6%E5%A4%9A%E4%B8%AADataframe%EF%BC%88merge%2Cconcat%EF%BC%89.md)
 - [Pandas DataFrame添加一行](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%20DataFrame%E6%B7%BB%E5%8A%A0%E4%B8%80%E8%A1%8C.md)
+- [Pandas中的绘图函数](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%E4%B8%AD%E7%9A%84%E7%BB%98%E5%9B%BE%E5%87%BD%E6%95%B0/Pandas%E4%B8%AD%E7%9A%84%E7%BB%98%E5%9B%BE%E5%87%BD%E6%95%B0.md)
 
 ### 4.Seaborn学习笔记
 - [Seaborn散点图，箱型图，柱状图，折线图及多面板绘图](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Seaborn/Seaborn%E6%95%A3%E7%82%B9%E5%9B%BE%EF%BC%8C%E7%AE%B1%E5%9E%8B%E5%9B%BE%EF%BC%8C%E6%9F%B1%E7%8A%B6%E5%9B%BE%EF%BC%8C%E6%8A%98%E7%BA%BF%E5%9B%BE%E5%8F%8A%E5%A4%9A%E9%9D%A2%E6%9D%BF%E7%BB%98%E5%9B%BE.ipynb)
