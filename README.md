@@ -58,16 +58,19 @@
 - [Pandas中的绘图函数](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%E4%B8%AD%E7%9A%84%E7%BB%98%E5%9B%BE%E5%87%BD%E6%95%B0/Pandas%E4%B8%AD%E7%9A%84%E7%BB%98%E5%9B%BE%E5%87%BD%E6%95%B0.md)
 - [Pandas行选择和列选择](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%E8%A1%8C%E9%80%89%E6%8B%A9%E5%92%8C%E5%88%97%E9%80%89%E6%8B%A9.md)
 
-### 4.Seaborn学习笔记
+### 4.Matplotlib笔记
+- [Python--matplotlib绘图可视化知识点整理](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Matplotlib%E7%AC%94%E8%AE%B0/Python--matplotlib%E7%BB%98%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86/Python--matplotlib%E7%BB%98%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.md)
+
+### 5.Seaborn学习笔记
 - [Seaborn散点图，箱型图，柱状图，折线图及多面板绘图](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Seaborn/Seaborn%E6%95%A3%E7%82%B9%E5%9B%BE%EF%BC%8C%E7%AE%B1%E5%9E%8B%E5%9B%BE%EF%BC%8C%E6%9F%B1%E7%8A%B6%E5%9B%BE%EF%BC%8C%E6%8A%98%E7%BA%BF%E5%9B%BE%E5%8F%8A%E5%A4%9A%E9%9D%A2%E6%9D%BF%E7%BB%98%E5%9B%BE.ipynb)
 - [Seaborn可视化：图形个性化设置的几个小技巧](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Seaborn/Seaborn%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%9A%E5%9B%BE%E5%BD%A2%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE%E7%9A%84%E5%87%A0%E4%B8%AA%E5%B0%8F%E6%8A%80%E5%B7%A7.ipynb)
 
-### 5.pyecharts笔记
+### 6.pyecharts笔记
 - [Python第三方库pyecharts安装过程](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/pyecharts%E7%AC%94%E8%AE%B0/Python%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93pyecharts%E5%AE%89%E8%A3%85%E8%BF%87%E7%A8%8B.md)
 - [pyecharts pip安装后出现“No module named 'jupyter echarts pypkg'”错误](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/pyecharts%E7%AC%94%E8%AE%B0/pyecharts%20pip%E5%AE%89%E8%A3%85%E5%90%8E%E5%87%BA%E7%8E%B0%E2%80%9CNo%20module%20named%20'jupyter%20echarts%20pypkg'%E2%80%9D%E9%94%99%E8%AF%AF.md)
 - [pyecharts地理坐标系 出现显示不全或只显示南海诸岛问题](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/pyecharts%E7%AC%94%E8%AE%B0/pyecharts%E5%9C%B0%E7%90%86%E5%9D%90%E6%A0%87%E7%B3%BB%20%E5%87%BA%E7%8E%B0%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%85%A8%E6%88%96%E5%8F%AA%E6%98%BE%E7%A4%BA%E5%8D%97%E6%B5%B7%E8%AF%B8%E5%B2%9B%E9%97%AE%E9%A2%98.md)
 
-### 6.实战
+### 7.实战
 - [豆瓣电影全站 数据分析](https://zhuanlan.zhihu.com/p/45316055)
 
 
