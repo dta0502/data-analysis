@@ -60,6 +60,7 @@
 
 ### 4.Matplotlib笔记
 - [Python--matplotlib绘图可视化知识点整理](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Matplotlib%E7%AC%94%E8%AE%B0/Python--matplotlib%E7%BB%98%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86/Python--matplotlib%E7%BB%98%E5%9B%BE%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86.md)
+- [Matplotlib解决使用 plt.savefig 保存图片时一片空白](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Matplotlib%E7%AC%94%E8%AE%B0/Matplotlib%E8%A7%A3%E5%86%B3%E4%BD%BF%E7%94%A8%20plt.savefig%20%E4%BF%9D%E5%AD%98%E5%9B%BE%E7%89%87%E6%97%B6%E4%B8%80%E7%89%87%E7%A9%BA%E7%99%BD.md)
 
 ### 5.Seaborn学习笔记
 - [Seaborn散点图，箱型图，柱状图，折线图及多面板绘图](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Seaborn/Seaborn%E6%95%A3%E7%82%B9%E5%9B%BE%EF%BC%8C%E7%AE%B1%E5%9E%8B%E5%9B%BE%EF%BC%8C%E6%9F%B1%E7%8A%B6%E5%9B%BE%EF%BC%8C%E6%8A%98%E7%BA%BF%E5%9B%BE%E5%8F%8A%E5%A4%9A%E9%9D%A2%E6%9D%BF%E7%BB%98%E5%9B%BE.ipynb)
