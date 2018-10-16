@@ -12,6 +12,7 @@
 - [Python中None与Null的区别](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python%E4%B8%ADNone%E4%B8%8ENull%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 - [Python基础——try与except处理异常语句](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python%E5%9F%BA%E7%A1%80%E2%80%94%E2%80%94try%E4%B8%8Eexcept%E5%A4%84%E7%90%86%E5%BC%82%E5%B8%B8%E8%AF%AD%E5%8F%A5.md)
 - [Python更改pip源至国内镜像，显著提升下载速度](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python%E6%9B%B4%E6%94%B9pip%E6%BA%90%E8%87%B3%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%EF%BC%8C%E6%98%BE%E8%91%97%E6%8F%90%E5%8D%87%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6.md)
+- [Python采用pip安装MySQLdb时出错](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python%E9%87%87%E7%94%A8pip%E5%AE%89%E8%A3%85MySQLdb%E6%97%B6%E5%87%BA%E9%94%99.md)
 - [Python中threading的join和setDaemon的区别及用法](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python%E4%B8%ADthreading%E7%9A%84join%E5%92%8CsetDaemon%E7%9A%84%E5%8C%BA%E5%88%AB%E5%8F%8A%E7%94%A8%E6%B3%95.md)
 - [Python 的 md5 和 sha1 加密---hashlib](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python%20%E7%9A%84%20md5%20%E5%92%8C%20sha1%20%E5%8A%A0%E5%AF%86---hashlib.md)
 - [Python---threading.Timer](https://github.com/dta0502/data-analysis/blob/master/Python%E5%9F%BA%E7%A1%80/Python---threading.Timer.md)
