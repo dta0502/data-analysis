@@ -93,6 +93,9 @@
 - [Windows 安装 MongoDB 卡住问题解决](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/%E9%97%AE%E9%A2%98/Windows%20%E5%AE%89%E8%A3%85%20MongoDB%20%E5%8D%A1%E4%BD%8F%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3.md)
 - [Windows下MongoDB的安装及配置](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/%E9%97%AE%E9%A2%98/Windows%E4%B8%8BMongoDB%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E9%85%8D%E7%BD%AE.md)
 - [Ubuntu16.04下MongoDB的安装和使用](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/Ubuntu16.04%E4%B8%8BMongoDB%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E4%BD%BF%E7%94%A8.md)
+- [MongoDB复制collection（表）](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E5%A4%8D%E5%88%B6collection%EF%BC%88%E8%A1%A8%EF%BC%89.md)
+- [MongoDB获取最后N条记录](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E8%8E%B7%E5%8F%96%E6%9C%80%E5%90%8EN%E6%9D%A1%E8%AE%B0%E5%BD%95.md)
+- [MongoDB基本操作](https://steamcn.com/forum.php?mod=viewthread&tid=187323&highlight=%B9%D2%BF%A8)
 
 ### 2.redis
 - [Windows下如何正确下载并安装可视化的Redis数据库管理工具（redis-desktop-manager)（图文详解）](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/redis/Windows%E4%B8%8B%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%B8%8B%E8%BD%BD%E5%B9%B6%E5%AE%89%E8%A3%85%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9A%84Redis%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7.md)
