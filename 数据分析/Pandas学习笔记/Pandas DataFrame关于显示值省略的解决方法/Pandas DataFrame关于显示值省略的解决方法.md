@@ -13,7 +13,7 @@ pd.DataFrame({'word':[longString]})
 
 输出如下： 
 
-![1](https://img-blog.csdn.net/20181021161957164?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R0YTA1MDI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![1](https://raw.githubusercontent.com/dta0502/data-analysis/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%20DataFrame%E5%85%B3%E4%BA%8E%E6%98%BE%E7%A4%BA%E5%80%BC%E7%9C%81%E7%95%A5%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/1.png)
 
 可以看到，显示值长度为50个后就出现了省略了，这个因为DataFrame默认的显示长度为50，不过可以改默认设置：
 
@@ -22,6 +22,6 @@ pd.set_option('max_colwidth',200)
 pd.DataFrame({'word':[longString]})
 ```
 
-![2](https://img-blog.csdn.net/2018102116205259?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2R0YTA1MDI=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![2](https://raw.githubusercontent.com/dta0502/data-analysis/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/Pandas%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Pandas%20DataFrame%E5%85%B3%E4%BA%8E%E6%98%BE%E7%A4%BA%E5%80%BC%E7%9C%81%E7%95%A5%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/2.png)
 
 通过设置就可以改变显示长度了。 
