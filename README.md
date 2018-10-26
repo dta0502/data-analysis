@@ -107,6 +107,7 @@
 
 ### 2.redis
 - [Windows下如何正确下载并安装可视化的Redis数据库管理工具（redis-desktop-manager)（图文详解）](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/redis/Windows%E4%B8%8B%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%B8%8B%E8%BD%BD%E5%B9%B6%E5%AE%89%E8%A3%85%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9A%84Redis%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7.md)
+- [Windows下安装和配置Redis](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/redis/Windows%E4%B8%8B%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AERedis/Windows%E4%B8%8B%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AERedis.md)
 
 ### 3.MySQL
 - [MySQL 插入中文错误：Incorrect string value_'xE7_xA8_x8B_xE5_xBA_x8F...' for column 'course' at row 1](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MySQL/MySQL%20%E6%8F%92%E5%85%A5%E4%B8%AD%E6%96%87%E9%94%99%E8%AF%AF%EF%BC%9AIncorrect%20string%20value_%20'_xE7_xA8_x8B_xE5_xBA_x8F...'%20for%20column%20'course'%20at%20row%201/MySQL%20%E6%8F%92%E5%85%A5%E4%B8%AD%E6%96%87%E9%94%99%E8%AF%AF%EF%BC%9AIncorrect%20string%20value_%20'_xE7_xA8_x8B_xE5_xBA_x8F...'%20for%20column%20'course'%20at%20row%201.md)
