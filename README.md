@@ -105,6 +105,7 @@
 - [MongoDB获取最后N条记录](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E8%8E%B7%E5%8F%96%E6%9C%80%E5%90%8EN%E6%9D%A1%E8%AE%B0%E5%BD%95.md)
 - [MongoDB基本操作](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
 - [Python3操作Mongodb简明易懂教程](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/Pymongo%E7%AE%80%E6%98%8E%E6%95%99%E7%A8%8B/Python3%E6%93%8D%E4%BD%9CMongodb%E7%AE%80%E6%98%8E%E6%98%93%E6%87%82%E6%95%99%E7%A8%8B.md)
+- [MongoDB排序错误：Sort operation used more than the maximum 33554432 bytes of RAM](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/MongoDB%E6%8E%92%E5%BA%8F%E9%94%99%E8%AF%AF%EF%BC%9ASort%20operation%20used%20more%20than%20the%20maximum%2033554432%20bytes%20of%20RAM.md)
 
 ### 2.redis
 - [Windows下如何正确下载并安装可视化的Redis数据库管理工具（redis-desktop-manager)（图文详解）](https://github.com/dta0502/data-analysis/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93/redis/Windows%E4%B8%8B%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%B8%8B%E8%BD%BD%E5%B9%B6%E5%AE%89%E8%A3%85%E5%8F%AF%E8%A7%86%E5%8C%96%E7%9A%84Redis%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7.md)
